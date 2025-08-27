@@ -1,2 +1,2 @@
 # hello-world
-practicing Github
+practicing Github, I'm a data science student at Boston University
